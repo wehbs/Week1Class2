@@ -1,0 +1,19 @@
+p {
+
+	font-size: 18px;
+	color: red;
+	margin-left: 25px;
+	font-weight: bold;
+}
+
+#div1 {
+	
+	color: blue;
+
+}
+
+.class1 {
+
+	font-size: 18px;
+	background-color: green;
+}
